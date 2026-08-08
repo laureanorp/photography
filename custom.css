@@ -73,10 +73,7 @@ body {
 /* Dark mode */
 @media (prefers-color-scheme: dark) {
   body {
-    background-color: #212121;
+    background-color: #141414;
     color: white;
-  }
-  hr {
-    border-color: #4e4e4e;
   }
 }
